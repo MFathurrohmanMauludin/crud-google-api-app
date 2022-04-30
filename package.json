@@ -1,0 +1,12 @@
+{
+  "name": "google-drive-api",
+  "version": "1.0.0",
+  "description": "Memasukkan berkas ke dalam file google drive menggunakan API",
+  "main": "app.js",
+  "scripts": {},
+  "author": "M Fathurrohman Mauludin",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^100.0.0"
+  }
+}
